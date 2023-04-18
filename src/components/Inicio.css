@@ -1,0 +1,23 @@
+.titulo{
+    text-align: center;
+    font-size: large;
+}
+.table {
+    margin-left: 40px;
+    width: 100%;
+    border: 1px solid #000;
+ }
+ th{
+    width: 25%;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid #000;
+   border-spacing: 0;
+   background-color: aquamarine;
+ }
+ button{
+    border: 1px solid #000;
+   border-radius: 5%;
+   background-color: rgb(17, 17, 82);
+   color: aliceblue;
+ }
